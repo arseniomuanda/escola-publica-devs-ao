@@ -12,6 +12,8 @@ Olá! Bem-vindo ao nosso projeto de desenvolvimento do sistema escolar para uma 
 - **Comunicação Integrada:** Sistema de mensagens e comunicados para facilitar a comunicação entre a escola, professores, alunos e pais.
 - **Calendário Escolar:** Visualização e gerenciamento de eventos e atividades escolares, como feriados, provas e reuniões.
 - **Acesso dos Pais:** Recurso para que os pais possam acompanhar o desempenho acadêmico de seus filhos, visualizar boletins e receber comunicados da escola.
+- **Gestão Financeira:**
+- **Gerar Relatórios em PDF:**
 
 ## Tecnologias Utilizadas
 
